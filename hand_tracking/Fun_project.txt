@@ -1,0 +1,8 @@
+Track the pointing finger.
+Log the positions
+Use OpenCv to draw the logged positions.
+
+Use pattern regocnition of Harry potter spells to determine wheter the drawing is close enough to the spell or not.
+Show the name of the spell if it is acurate. 
+Maybe some more stuff like sounds.
+

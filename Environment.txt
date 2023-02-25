@@ -1,0 +1,8 @@
+Using anaconda to make a virtual enviroment for this project.
+
+Modules:
+
+Hand tracking:
+- OpenCv - pin install opencv-python
+- Torch - pip install Torch
+- MediaPipe - pip install mediapipe

@@ -1,0 +1,11 @@
+Use the MediaPipe from google
+
+Hand tracking consist of palm detection and hand landmarks
+
+- Palm detection works on complete image, and crops an image to the hand.
+
+- Hand landmarks module maps the hand to different joints and points. Like where the wrist is, thumb tip etc.
+    - Trained with 30 000 manually anotated images of hands. Prob croud sourcing. But large dataset, with consise anotaion is good.
+    - Possibly make my own dataset and use MediaPipe on it. Anotation is dreadfull to do manually. Maybe train a simple model, and then use reinforcement to automate anotation.
+
+https://google.github.io/mediapipe/solutions/hands#python-solution-api
